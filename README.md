@@ -31,3 +31,6 @@ Módulo de relé Arduino
 Los aficionados suelen utilizar un módulo de relé con Arduino en sus proyectos. Un Arduino es un microcontrolador Tablero que es muy popular en proyectos de electrónica de bricolaje. 
 El módulo de relé, cuando se empareja con un Arduino, puede controlar varios aparatos y dispositivos.
 https://www.geya.net/es/what-is-a-relay-module-and-what-does-it-do/ 
+
+![x](https://github.com/Mayra1207/Relay-Module/assets/89611745/25aace16-54b3-4324-b108-d9b2fc65a5e4)
+
