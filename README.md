@@ -1,3 +1,5 @@
+
+
 **Relay Module**
 
 *El manejo de un módulo relee o relay es muy
@@ -10,8 +12,16 @@ mediante una entra de datos.
 Gracias a esto podemos controlar el encendido de cualquier
 aparato. 
 
-**Caracteristicas y beneficios**
-https://www.khomp.com/es/produto/endpoint-sip-relay-module/ 
+**CARACTERÍSTICAS Y BENEFICIOS**
+
+Control y accionamiento de dispositivos electrónicos y magnéticos
+Dos relés y dos sensores
+Integración con sistemas de telefonía IP
+Integración perfecta con Asterisk®
+Integración con API RESTFUL para eventos y comandos HTTP
+Uso en redes PoE (Power over Ethernet) – recurso opcional solamente en el momento de la compra
+Instalación fácil
+Soporte gratuito
 
 **Usos del módulo de relé**
 
