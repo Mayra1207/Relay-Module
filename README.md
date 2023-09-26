@@ -1,4 +1,5 @@
  ![th](https://github.com/Mayra1207/Relay-Module/assets/89611745/b7a50d7d-260f-4d29-b8d0-86a1fca38816)![post_logo_educ](https://github.com/Mayra1207/Relay-Module/assets/89611745/5cc0470b-6c52-4a57-8a6f-59804c738943)![th](https://github.com/Mayra1207/Relay-Module/assets/89611745/593ffa4c-4c4c-4bc1-8c44-0d32ca8f6359)
+ 
          <p   align="center"> **RELAY MODULE**
          </p> 
 
@@ -27,6 +28,7 @@ Integración con API RESTFUL para eventos y comandos HTTP
 Uso en redes PoE (Power over Ethernet) – recurso opcional solamente en el momento de la compra
 Instalación fácil
 Soporte gratuito
+</p>
 
 **1. Usos del módulo de relé**
 
@@ -53,6 +55,6 @@ las señales de giro e incluso el motor de arranque. Un módulo de relé de auto
 Los aficionados suelen utilizar un módulo de relé con Arduino en sus proyectos. Un Arduino es un microcontrolador Tablero que es muy popular en proyectos de electrónica de bricolaje. 
 El módulo de relé, cuando se empareja con un Arduino, puede controlar varios aparatos y dispositivos.
 
-</p>
+
 
 
