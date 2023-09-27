@@ -1,7 +1,8 @@
  ![th](https://github.com/Mayra1207/Relay-Module/assets/89611745/b7a50d7d-260f-4d29-b8d0-86a1fca38816)![post_logo_educ](https://github.com/Mayra1207/Relay-Module/assets/89611745/5cc0470b-6c52-4a57-8a6f-59804c738943)![th](https://github.com/Mayra1207/Relay-Module/assets/89611745/593ffa4c-4c4c-4bc1-8c44-0d32ca8f6359)
  
-         <p   align="center"> **RELAY MODULE**
-         </p> 
+        
+         RELAY MODULE
+          
 
 *El manejo de un módulo relee o relay es muy
 sencillo y nos permite controlar el encendido y
